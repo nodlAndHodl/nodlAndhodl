@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the US going to create a US Strategic Shitcoin Reserve?
+title: Is the US going to create a Strategic Shitcoin Reserve?
 date: 2025-03-03
 block-height: 886169
 header_image: "/assets/images/shitcoin-reserve.png"
