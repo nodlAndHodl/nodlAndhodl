@@ -13,6 +13,7 @@ Just to be clear I don't think the below announcement will really change much fo
 ![Strategic Shitcoins](../../assets/images/don-strategic-shitcoins.jpeg)
 
 Gotta love that he was later forced to mention BTC and ETH. 
+
 ### Will the US Shitcoin Reserve Have Bitcoin?
 Yes, I would even be willing to bet that when the Crypto Reserve is created it will be a majority Bitcoin. After all that's what the majority of the DOJ currently has on hand anyway with Ethereum being second. The current ~69,730 coins would likely be converted by Executive Order to be the initial seed of the reserve. 
 
