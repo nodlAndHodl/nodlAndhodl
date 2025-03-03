@@ -3,7 +3,6 @@ layout: post
 title: Learning Rust - Is it object oriented?
 date: 2025-03-01
 block-height: 885882
-header_image: "/assets/images/bitcoin.avif"
 categories: ["programming", "rust"]
 ---
 
