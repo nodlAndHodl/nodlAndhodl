@@ -2,7 +2,7 @@
 layout: post
 title: The Overton Window has Shifted
 date: 2025-03-07
-block-height: 886169
+block-height: 886813
 header_image: "/assets/images/trump-eo-sbr.png"
 categories: ["politics"]
 ---
