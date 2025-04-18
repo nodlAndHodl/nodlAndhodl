@@ -212,7 +212,7 @@ That's a bit more complex and would look something like this
     args.insert("x-dead-letter-exchange".into(), DLX_EXCHANGE.into()); 
 ```
 
-This way we can handle failures independantly and are not stuck in a retry with prior use of `basic_nack(requeue=true)`.
+This way we can handle failures independently and are not stuck in a retry with prior use of `basic_nack(requeue=true)`.
 
 Next topic I will discuss is the use of the different types of exchanges. Here we are using an exchange with a single consumer. I will go over in more detail the different types we can set up and how they work and why next post. Thanks for reading!
 
